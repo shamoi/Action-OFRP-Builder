@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/TWRP-exynos7885/android_device_samsung_a20'
+        default: 'https://github.com/shamoi/android_device_samsung_a20-OFR'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
